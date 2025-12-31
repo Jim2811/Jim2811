@@ -49,10 +49,10 @@ Currently, I am learning **Next.js** to enhance my full-stack development skills
   <a href="mailto:rukhsathossain2811@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="30"/>
   </a>
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/Jim2811">
     <img src="https://skillicons.dev/icons?i=github" height="30"/>
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/rukhsat-hossain-jim">
     <img src="https://skillicons.dev/icons?i=linkedin" height="30"/>
   </a>
 </p>
