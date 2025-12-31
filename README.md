@@ -57,7 +57,7 @@ Currently, I am learning **Next.js** to enhance my full-stack development skills
   </a>
 </p>
 
-📍 **Location:** Bangladesh  
+📍 **Location:** Rangpur, Bangladesh
 
 ---
 
