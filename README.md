@@ -67,9 +67,4 @@ Currently, I am learning **Next.js** to enhance my full-stack development skills
 
 ---
 
-### 📌 Featured Projects
-⭐ Check out my pinned repositories to see my best client-side and MERN stack projects.
-
----
-
 ⭐ **Always open to learning, building, and collaborating on exciting projects!**
