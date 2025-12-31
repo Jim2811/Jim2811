@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:22c55e&height=200&section=header&text=Rukhsat%20Hossain%20Jim&fontSize=40&fontColor=ffffff)
+![Banner](./banner.png)
 
 ### 🛠 Tech Stack
 <p>
