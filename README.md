@@ -1,4 +1,9 @@
-![Banner](https://ibb.co.com/twC25P5k)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:22c55e&height=200&section=header&text=Rukhsat%20Hossain%20Jim&fontSize=40&fontColor=ffffff)
+
+### 🛠 Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,git,tailwind,nextjs" />
+</p>
 
 ## 👋 Hi, I'm Rukhsat Hossain Jim  
 ### 🚀 MERN Stack Developer
