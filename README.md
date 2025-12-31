@@ -63,11 +63,7 @@ Currently, I am learning **Next.js** to enhance my full-stack development skills
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Jim2811&theme=transparent&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ---
 
