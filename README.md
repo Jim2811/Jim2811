@@ -63,7 +63,7 @@ Currently, I am learning **Next.js** to enhance my full-stack development skills
 
 ### 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Jim2811&theme=transparent&hide_border=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jim2811)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
